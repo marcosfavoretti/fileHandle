@@ -1,2 +1,1 @@
-search.txt
-log
+//apague isso e escreva o nome dos arquivos que vc deseja mover
